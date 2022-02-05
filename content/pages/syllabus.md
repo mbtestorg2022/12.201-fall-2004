@@ -37,11 +37,48 @@ Grading
 
 Grades for the class will be based on the scores from (~8) homework assignments, paper discussion, and a final exam/quiz.
 
-| ACTIVITIES | Percentages |
-| --- | --- |
-| Homework Assignments | 50% |
-| Paper Discussion | 10% |
-| Final Exam/Quiz | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam/Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 No mid-term exam will be given. It is expected that students will work independently on homework problems, but discussion outside class on the articles that are discussed is encouraged. (Unless indicated otherwise, homework is due one week after it is assigned.)
 
