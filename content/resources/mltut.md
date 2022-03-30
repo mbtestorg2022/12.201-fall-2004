@@ -7,6 +7,7 @@ description: This resource includes getting started with matlab, matrices, matri
   and solution to simultaneous equations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-201-essentials-of-geophysics-fall-2004/ead6cf97fdd7eb9ce72eedf300718ee2_mltut.pdf
 file_type: application/pdf
+parent_uid: e8387098-1df9-1f65-f2a0-2611dbabbdab
 resourcetype: Document
 title: mltut.pdf
 uid: ead6cf97-fdd7-eb9c-e72e-edf300718ee2

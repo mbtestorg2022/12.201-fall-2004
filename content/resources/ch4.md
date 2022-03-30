@@ -13,6 +13,7 @@ description: 'This resource includes the historical perspective, introduction to
   - free oscillations.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-201-essentials-of-geophysics-fall-2004/b78f19037066b01c0977aa9dda43b225_ch4.pdf
 file_type: application/pdf
+parent_uid: 3b17c37b-32df-c290-d9a0-2e3b79dbb70d
 resourcetype: Document
 title: ch4.pdf
 uid: b78f1903-7066-b01c-0977-aa9dda43b225

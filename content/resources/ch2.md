@@ -9,6 +9,7 @@ description: 'This file contains the following topics:
   and flexure and gravity.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-201-essentials-of-geophysics-fall-2004/7fa24d336366b74c52adb48ae6c8cf6f_ch2.pdf
 file_type: application/pdf
+parent_uid: 3b17c37b-32df-c290-d9a0-2e3b79dbb70d
 resourcetype: Document
 title: ch2.pdf
 uid: 7fa24d33-6366-b74c-52ad-b48ae6c8cf6f

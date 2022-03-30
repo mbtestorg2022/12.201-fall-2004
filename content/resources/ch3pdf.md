@@ -12,6 +12,7 @@ description: 'This file contains the following topics:
   profiles.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-201-essentials-of-geophysics-fall-2004/f45383d9b61f24c2c5fa474288d7158d_ch3pdf.pdf
 file_type: application/pdf
+parent_uid: 3b17c37b-32df-c290-d9a0-2e3b79dbb70d
 resourcetype: Document
 title: ch3pdf.pdf
 uid: f45383d9-b61f-24c2-c5fa-474288d7158d
